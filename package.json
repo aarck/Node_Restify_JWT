@@ -14,7 +14,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.6.0",
+    "mongoose": "^5.7.5",
     "mongoose-timestamp": "^0.6.0",
     "restify": "^8.3.3",
     "restify-errors": "^8.0.0",
